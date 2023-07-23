@@ -1,4 +1,4 @@
-# CourseProject
+# Reddit Recommender
 
 Team Reddit Recommenders
 
